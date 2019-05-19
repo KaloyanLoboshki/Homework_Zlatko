@@ -1,0 +1,11 @@
+C:\Users\Marti\Desktop\1 курс 2 семестър\ИНФОРМАТИКА\2 zadachi\zandachaN8page106 - 5\zandachaN8page106 - 5\bin\Debug\netcoreapp2.1\zandachaN8page106 - 5.deps.json
+C:\Users\Marti\Desktop\1 курс 2 семестър\ИНФОРМАТИКА\2 zadachi\zandachaN8page106 - 5\zandachaN8page106 - 5\bin\Debug\netcoreapp2.1\zandachaN8page106 - 5.runtimeconfig.json
+C:\Users\Marti\Desktop\1 курс 2 семестър\ИНФОРМАТИКА\2 zadachi\zandachaN8page106 - 5\zandachaN8page106 - 5\bin\Debug\netcoreapp2.1\zandachaN8page106 - 5.runtimeconfig.dev.json
+C:\Users\Marti\Desktop\1 курс 2 семестър\ИНФОРМАТИКА\2 zadachi\zandachaN8page106 - 5\zandachaN8page106 - 5\bin\Debug\netcoreapp2.1\zandachaN8page106 - 5.dll
+C:\Users\Marti\Desktop\1 курс 2 семестър\ИНФОРМАТИКА\2 zadachi\zandachaN8page106 - 5\zandachaN8page106 - 5\bin\Debug\netcoreapp2.1\zandachaN8page106 - 5.pdb
+C:\Users\Marti\Desktop\1 курс 2 семестър\ИНФОРМАТИКА\2 zadachi\zandachaN8page106 - 5\zandachaN8page106 - 5\obj\Debug\netcoreapp2.1\zandachaN8page106 - 5.csprojAssemblyReference.cache
+C:\Users\Marti\Desktop\1 курс 2 семестър\ИНФОРМАТИКА\2 zadachi\zandachaN8page106 - 5\zandachaN8page106 - 5\obj\Debug\netcoreapp2.1\zandachaN8page106 - 5.csproj.CoreCompileInputs.cache
+C:\Users\Marti\Desktop\1 курс 2 семестър\ИНФОРМАТИКА\2 zadachi\zandachaN8page106 - 5\zandachaN8page106 - 5\obj\Debug\netcoreapp2.1\zandachaN8page106 - 5.AssemblyInfoInputs.cache
+C:\Users\Marti\Desktop\1 курс 2 семестър\ИНФОРМАТИКА\2 zadachi\zandachaN8page106 - 5\zandachaN8page106 - 5\obj\Debug\netcoreapp2.1\zandachaN8page106 - 5.AssemblyInfo.cs
+C:\Users\Marti\Desktop\1 курс 2 семестър\ИНФОРМАТИКА\2 zadachi\zandachaN8page106 - 5\zandachaN8page106 - 5\obj\Debug\netcoreapp2.1\zandachaN8page106 - 5.dll
+C:\Users\Marti\Desktop\1 курс 2 семестър\ИНФОРМАТИКА\2 zadachi\zandachaN8page106 - 5\zandachaN8page106 - 5\obj\Debug\netcoreapp2.1\zandachaN8page106 - 5.pdb
